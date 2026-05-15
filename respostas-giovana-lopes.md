@@ -10,7 +10,7 @@ Aluno: Giovana Lopes Eberle
 
 Matrícula: 
 
-Branch: avaliacao-giovana-lopes
+Branch: avaliacao-gioavana-lopes
 
 ---
 
@@ -19,7 +19,7 @@ Branch: avaliacao-giovana-lopes
 Explique com suas palavras o que é um Processo de Desenvolvimento de Software.
 
 ```text
-Resposta Questão 1: 
+Resposta Questão 1: O processo de desenvolvimento de software pode ser definido como um conjunto organizado e estruturado de atividades
 ```
 ---
 
@@ -65,7 +65,7 @@ Resposta Questão 4: Entregar incremento funcional do produto
 Explique a diferença entre Épico, História de Usuário e Tarefa.
 
 ```text
-Resposta Questão 5: 
+Resposta Questão 5: Épico pode se dizer que é o todo de uma história, o macro dela, enquanto a histórias se derivam do épico, sendo assim cada épico pode ter uma ou mais histórias de usúario.
 ```
 ---
 
@@ -79,7 +79,7 @@ Qual alternativa representa corretamente uma História de Usuário?
 - [ ] Corrigir bug da tela inicial
 
 ```text
-Resposta Questão 6: 
+Resposta Questão 6: Criar endpoint REST
 ```
 ---
 
@@ -88,7 +88,7 @@ Resposta Questão 6:
 O que é uma branch no Git e qual sua finalidade?
 
 ```text
-Resposta Questão 7:
+Resposta Questão 7: Branch é uma ramificação comunmente da versão principal
 ```
 ---
 
@@ -102,7 +102,7 @@ Qual das alternativas abaixo representa um commit seguindo um padrão adequado?
 - [ ] alteracoes diversas
 
 ```text
-Resposta Questão 8: 
+Resposta Questão 8: feat(login): adiciona autenticação de usuários
 ```
 ---
 
