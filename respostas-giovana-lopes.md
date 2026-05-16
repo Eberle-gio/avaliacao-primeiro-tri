@@ -155,7 +155,7 @@ Resposta Questão 12: O sistema deverá permitir login apenas com credencias vá
 Explique a importância de commits frequentes durante o desenvolvimento.
 
 ```text
-Resposta Questão 13: 
+Resposta Questão 13: Os commits frequentes tem como finalidade demarcar um histórico dos trabalhos dos desenvolvedores, além de também garantir que o processo seja salvo e não se perca caso aconteça alguma intercorrencia.
 ```
 ---
 
@@ -169,7 +169,7 @@ Qual alternativa representa corretamente uma atividade típica do Scrum Master?
 - [ ] Aprovar somente código front-end
 
 ```text
-Resposta Questão 14: 
+Resposta Questão 14: Garantir que o Scrum seja entendido e aplicado
 ```
 ---
 
@@ -178,7 +178,7 @@ Resposta Questão 14:
 Explique a diferença entre merge e branch no Git.
 
 ```text
-Resposta Questão 15: 
+Resposta Questão 15: Merge é quando temos divergência de um mesmo arquivo e precisamos mesclar essas diferenças enquanto branch é uma ramificação de alguma versão, comunmente, a principal, ou a de desenvolvimento.
 ```
 ---
 
@@ -200,6 +200,12 @@ Na resposta:
 - considere que a branch pode ser criada tanto localmente quanto pela interface do GitHub.
 
 ```text
-Resposta Questão 16: 
+Resposta Questão 16:
+1° passo: git clone url-do-projeto -> Etapa necessária para clonar o repositório remoto para o local.
+2° passo: git checkout -b minha-branch -> Etapa da criação de uma branch já trocando para ela para utilização.
+3° passo: Desenvovlimento nessa branch preenchendo-a de conteúdo.
+4° passo: git add . ou git add nome-do-arquivo -> comando para preparar as alterações em todos os arquivos ou em apenas um em específico respectivamente.
+5° passo: git commit -m "mensagem de commit" -> Comando necessário para salvar as alterações anteriormente preparadas.
+6° passo: git push nome-da-branch -> Comando que envia as alterações do local para o repositório remoto.
 ```
 ---
