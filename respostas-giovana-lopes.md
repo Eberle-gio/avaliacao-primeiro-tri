@@ -120,7 +120,7 @@ Resposta Questão 9:
 Descreva uma vantagem da utilização de Kanban em equipes de desenvolvimento de software.
 
 ```text
-Resposta Questão 10: 
+Resposta Questão 10: Algumas vantagesn da utilização do quadro kanban é o aumento da pordutividade pela maior organização da equipe e sua comunicação
 ```
 ---
 
@@ -132,7 +132,7 @@ Qual a finalidade do comando abaixo?
 git checkout -b minha-branch
 ```
 ```text
-Resposta Questão 11: 
+Resposta Questão 11: O comando acima tem a finalidade de criar uma branch e logo na criação já trocar para ela
 ```
 ---
 
@@ -146,7 +146,7 @@ Qual alternativa representa corretamente um critério de aceitação?
 - [ ] Criar branch
 
 ```text
-Resposta Questão 12: 
+Resposta Questão 12: O sistema deverá permitir login apenas com credencias válidas
 ```
 ---
 
